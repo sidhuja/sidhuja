@@ -14,5 +14,4 @@
 - ⚙️ Frameworks/Libraries: React.js, Node.js, Unittest
 - 📊 Databases/Tools: GitHub, Git, MongoDB, MySQL, Figma, Microsoft Word, Excel
 
-Let's connect on Linkedin! 🚀
-https://www.linkedin.com/in/jasmine-k-sidhu/
+
